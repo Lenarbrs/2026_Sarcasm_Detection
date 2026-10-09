@@ -15,5 +15,3 @@ All experiments were performed with fixed random seeds and stratified cross-vali
 * Éloïse Delerue
 * Lucile Lapray
 * Léna Rebours
-
-Université PSL
